@@ -15,7 +15,7 @@ b. proxy port - Provide port for proxy
 c. dates for data (format: mmm-yyyy; delimiter: ,). E.g. Jan-2017,Feb-2017,Mar-2017,Apr-2017,May-2017,Jun-2017,Jul-2017
 
 Example:
-1. With proxy: <proxy> <proxy port> Jan-2017,Feb-2017,Mar-2017,Apr-2017,May-2017,Jun-2017,Jul-2017
+1. With proxy: [proxy] [proxy port] Jan-2017,Feb-2017,Mar-2017,Apr-2017,May-2017,Jun-2017,Jul-2017
 2. Without proxy: null 0 Jan-2017,Feb-2017,Mar-2017,Apr-2017,May-2017,Jun-2017,Jul-2017
 
 (D) Assumptions
