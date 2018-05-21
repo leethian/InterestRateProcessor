@@ -3,10 +3,10 @@
 No specific design patterns.
 
 (B) Build (Maven Build):
-Use IntelliJ IDE (or other IDE which supports Maven) to open Project folder InterestRateProcessor which would compile the program.
+Use IntelliJ IDEA (or other IDE which supports Maven) to open Project folder InterestRateProcessor which would compile the program.
 
 (C) Running the program
-1. Use IntelliJ IDE (or other IDE which supports Maven) to Run main class src/app/CompareBankToFCInterestRates with below parameters:
+1. Use IntelliJ IDEA (or other IDE which supports Maven) to Run main class src/app/CompareBankToFCInterestRates with below parameters:
 
 a. proxy - To access the MAS API, proxy is used. Provide the proxy to be used.
 
